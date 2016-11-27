@@ -717,12 +717,12 @@ Google Map Style
     /* ==========================================================================
 Footer Map Style
 ========================================================================== */
-footer {
+foote {
   background: #24242a;
   padding: 60px 0;
   text-align: center;
 }
-footer h1 {
+foote h1 {
   text-transform: uppercase;
   font-weight: 700;
 }
